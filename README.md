@@ -2,7 +2,7 @@
 
 Dominate every inch of Pet Simulator 99! with the most powerful and keyless script hub on the scene. Whether you're farming for coins, smashing events, or collecting mythical pets, this tool is your all-in-one companion. Undetectable, insanely efficient, and built for maximum control – ZapHub's script will take your gaming experience to the next level.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Pet-Simulator-99-/blob/main/pet%20simulator.png)
 
 ---
 
